@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Verifone MPOS - Definitions </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/icomoon-social.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600,800' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" href="../css/leaflet.css" />
+		<!--[if lte IE 8]>
+        <link rel="stylesheet" href="../css/leaflet.ie.css"/>
+        <![endif]-->
+		<link rel="stylesheet" href="../css/main.css">
+		<link rel="shortcut icon" href="../img/ico/VerifoneMPOS.ico" type="image/x-icon">
+    </head>
+    <body ng-app="myApp">
+	
+	
+        <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Navigation & Logo-->
+        <div class="mainmenu-wrapper" ng-include="'../html/includes/header.htm'"></div>
+
+        <!-- Page Title -->
+		<div class="section section-breadcrumbs">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>Définitons & acronymes </h1>
+												<h4>(cliquer pour voir la définition)</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 faq-wrapper">
+
+					<h3>DEFINITIONS & ACRONYMES - Paiement Mobile</h3>	
+	
+	<div ng-controller ="DefinitionsCtrl">
+	  <p>
+		<button class="btn btn-default btn-sm" ng-click="openAllPanels()">Tout Deplier</button>
+		<button class="btn btn-default btn-sm" ng-click="closeAllPanels()">Tout Replier</button>
+	  </p>
+
+		<div class="row">
+		  <div class="col-md-4"><input ng-model="search.$" type="text" class="form-control" id="any" placeholder="all filters"></div>
+		  <div class="col-md-4"><input ng-model="search.title" type="text" class="form-control" id="title" placeholder="by Title"></div>
+		  <div class="col-md-4">
+			<select ng-model="search.tags" class="form-control"
+                data-ng-options="tag for tag in tags">
+                <optgroup label = "Choose One"/>
+            </select>
+
+		  </div>
+		</div>
+		<div class="row">
+		  <div class="col-md-4"><input ng-model="search.createdBy.name" type="text" class="form-control" id="createdByname" placeholder="by createdBy.name"></div>
+		  <div class="col-md-4"><input ng-model="search.content" type="text" class="form-control" id="content" placeholder="by content"></div>
+		  <div class="col-md-4"><input ng-model="search.imgs" type="text" class="form-control" id="imgs" placeholder="by imgs"></div>
+		</div>
+		Equality <input type="checkbox" ng-model="strict"><br>
+		  <hr/>
+		  <code>Tri par predicate = {{predicate}}; reverse = {{reverse}}</code>
+			[ <a href="" ng-click="predicate=''">non-trié</a> ]
+		  <table class="def">
+			<tr>
+				<th>	 <a href="" ng-click="predicate = 'title'; reverse=false">title</a>
+				(<a href="" ng-click="predicate = '-title'; reverse=false">^</a>)				 </th>
+				<th> 	<a href="" ng-click="predicate = 'content'; reverse=!reverse">content</a> 		</th>
+				<th> 	<a href="" ng-click="predicate = 'createdBy.name'; reverse=!reverse">createdBy.name</a> 		</th>
+				<th> 	<a href="" ng-click="predicate = 'imgs'; reverse=!reverse">imgs</a> 		</th>
+				<th> 	<a href="" ng-click="predicate = 'tags'; reverse=!reverse">tags</a> 		</th>
+			 </tr>
+		  </table>
+	  
+	  <label class="checkbox">
+		<input type="checkbox" ng-model="oneAtATime">
+		Ouvrir un item à la fois
+	  </label>
+	  <accordion close-others="oneAtATime">
+	  <div class="panel-heading">
+	  <accordion-group  ng-repeat="def in data.definitions | filter:search:strict | orderBy:predicate:reverse" ng-class="def.type" is-open="def.open">
+		<accordion-heading>
+			{{def.title}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': def.open, 'glyphicon-chevron-right': !def.open}"></i>
+		</accordion-heading>
+		<div class="accordion-inner">
+			<div ng-if="showMeaning(def)"><em>Signification</em> : <strong>{{def.meaning}}</strong></div>
+			<div ng-if="showTags(def)"> <span ng-repeat="tag in def.tags track by $index" class="label label-info">{{tag}}</span> </div>
+			<p ng-if="showContent(def)">
+				<p ng-bind-html="renderHtml(def.content)"></p>
+				<div ng-if="showImgs(def)"class="container">
+					<hr>
+					<div class="carousel slide article-slide myCarousel" id="{{def.title}}">
+					  <div class="carousel-inner cont-slider">
+						<div ng-class="{active : $first}" ng-repeat="img in def.imgs track by $index" class="item" >
+						  <img ng-src="{{img}}" class="MPOS_SlideLarge">
+						</div>
+					  </div>
+					  <ol class="carousel-indicators visible-lg visible-md">
+						<li ng-class="{active : $first}" ng-repeat="img in def.imgs track by $index"  data-slide-to="$index" data-target="#{{def.title}}">
+						  <img ng-src="{{img}}" class="MPOS_SlideSmall">
+						</li>
+					  </ol>                 
+					</div>
+				</div>
+				<hr>
+				<div ng-if="showLinks(def)">
+					<div>Lien(s) annexe(s):</div>
+					<ul> 
+						<li ng-repeat="lnk in def.links track by $index" ><a href="{{lnk}}"> {{lnk}} </a></li>
+					</ul>
+				</div>			
+				<hr>
+				<div ng-if="showCreatedBy(def)" class="MPOS_Poster">
+					<div>Créateur: {{def.createdBy.name}}</div>
+					<img ng-src="{{def.createdBy.avatarFileName}}" class="MPOS_UserAvatar"/>
+				</div>
+			</p>
+		</div>
+	   </accordion-group>
+		<accordion-group is-open="status.open">
+			<accordion-heading >
+			<span style="color:red;">Dynamic Body Content </span>				
+				<i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+			</accordion-heading>
+		  <p>The body of the accordion group grows to fit the contents</p>
+			<button class="btn btn-default btn-sm" ng-click="addItem()">Add Item</button>
+			<div ng-repeat="item in items">{{item}}</div>
+		</accordion-group>
+	  </div>
+	  </accordion>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+        <!-- Footer -->
+        <div ng-controller ="FooterController" class="footer" ng-include="'../html/includes/footer.htm'"></div>
+
+        <!-- Javascripts -->
+        <script src="../js/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="../js/lib/bootstrap.min.js"></script>
+        <script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
+        <script src="../js/lib/jquery.fitvids.js"></script>
+        <script src="../js/lib/jquery.sequence-min.js"></script>
+        <script src="../js/lib/jquery.bxslider.js"></script>
+        <script src="../js/main-menu.js"></script>
+        <script src="../js/template.js"></script>
+        <script src="../js/lib/angular.js"></script>
+        <script src="../js/lib/angular-route.js"></script>
+        <script src="../js/lib/ui-bootstrap-tpls-0.12.1.min.js"></script>
+        <script src="../js/AngularData.js"></script>
+
+    </body>
+</html>

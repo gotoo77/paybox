@@ -1,0 +1,101 @@
+controller: {{name}}<br />
+Dongle Id: {{params.myDongle}}<br />
+
+<!-- Page Title -->
+<div ng-controller ="DongleController" class="section">
+    <div class="section section-breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1>{{title}}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <!-- Image Column -->
+                <div class="col-sm-6">
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a href="#"><img src="./img/metier/ArchiMPOS.png" height="250" alt="MPOS"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Image Column -->
+                <!-- Project Info Column -->
+                <div class="portfolio-item-description col-sm-6">
+                    <h3>Description</h3>
+                    <p>
+                        Mauris auctor blandit neque eu cursus. Nunc vel commodo dui, sed tempus mi. Fusce eleifend, orci ut elementum porta, mauris leo porta purus.
+                    </p>
+                    <p>
+                        Etiam aliquet tempor est nec pharetra. Etiam interdum tincidunt orci vitae elementum. Donec sollicitudin quis risus sit amet lobortis. Fusce sed tincidunt nisl.
+                    </p>
+                    <ul class="no-list-style">
+                        <li><strong>InitParameters</strong></li>
+                        <li>getDongleInfos(CallBackDongleInfos callback, Map params) : void </li>
+                        <li>initDongle(CallBackInitDongle callback, Map params) : void </li>
+                        <li>checkDongleUpdate( CallBackCheckDongleUpdate callback, Map params) : void</li>
+                        <li>updateDongle(CallBackUpdateDongle callback, Map params) : void</li>
+                        <li>sendTransaction(String url, CallBackSendTransaction callback, Map params, IMessageHandler guiController) : void </li>
+                        <li class="portfolio-visit-btn"><a href="../docs/PaiementMobile%20-%20Description%20API%201.06.pdf" class="btn">Voir les specifications</a></li>
+                    </ul>
+                </div>
+                <!-- End Project Info Column -->
+            </div>
+            <!-- Related Projects -->
+            <h3>Autres services</h3>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a href="#"><img src="../img/metier/ArchiMPOS.png" alt="Project Name"></a>
+                        </div>
+                        <div class="portfolio-info-fade">
+                            <ul>
+                                <li class="portfolio-project-name">ArchiMPOS 1</li>
+                                <li> ... </li>
+                                <li> .... </li>
+                                <li class="read-more"><a href="#" class="btn">En savoir +</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a href="#"><img src="../img/metier/ArchiMPOS.png" alt="Project Name"></a>
+                        </div>
+                        <div class="portfolio-info-fade">
+                            <ul>
+                                <li class="portfolio-project-name">ArchiMPOS 2</li>
+                                <li> ... </li>
+                                <li> .... </li>
+                                <li class="read-more"><a href="#" class="btn">En savoir +</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a href="#"><img src="../img/metier/ArchiMPOS.png" alt="Project Name"></a>
+                        </div>
+                        <div class="portfolio-info-fade">
+                            <ul>
+                                <li class="portfolio-project-name">ArchiMPOS 3</li>
+                                <li> ... </li>
+                                <li> .... </li>
+                                <li class="read-more"><a href="#" class="btn">En savoir +</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Related Projects -->
+        </div>
+    </div>
+</div>

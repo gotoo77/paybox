@@ -1,0 +1,15 @@
+<nav ng-controller="HeaderController" class="collapse navbar-collapse" id="mainmenu" class="mainmenu">
+    <ul ng-controller ="SharedDataController" class="nav navbar-nav">
+        <!-- add logo -->
+        <li class="logo-wrapper">
+           <a href="home">
+               <img ng-src="{{ shareddata.imgs.logo}}" alt="header_logo">
+             </a>
+        </li>
+        <!-- add menu items -->
+        <li ng-repeat="menu in shareddata.menus track by $index">
+            <a href="{{menu.link}}">{{menu.title}}</a>
+        </li>
+
+    </ul>
+</nav>

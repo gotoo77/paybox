@@ -1,0 +1,51 @@
+controller: {{name}}<br />
+Devel Id: {{params.myDevel}}<br />
+
+<!-- Page Title -->
+<div ng-controller ="DevelController" class="section">
+    <div class="section section-breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1>{{title}}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <!-- Image Column -->
+                <div class="col-sm-6">
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a href="#"><img ng-src="{{data.imgs.main}}"class="MPOS_portfolio-image" alt="DevelController"></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Image Column -->
+                <!-- Project Info Column -->
+                <div class="portfolio-item-description col-sm-6">
+                    <h3>Description</h3>
+                    <p>
+                        Mauris auctor blandit neque eu cursus. Nunc vel commodo dui, sed tempus mi. Fusce eleifend, orci ut elementum porta, mauris leo porta purus.
+                    </p>
+                    <p>
+                        Etiam aliquet tempor est nec pharetra. Etiam interdum tincidunt orci vitae elementum. Donec sollicitudin quis risus sit amet lobortis. Fusce sed tincidunt nisl.
+                    </p>
+                    <ul class="">
+                        <li><strong>InitParameters</strong></li>
+                        <li>getDongleInfos(CallBackDongleInfos callback, Map params) : void </li>
+                        <li>initDongle(CallBackInitDongle callback, Map params) : void </li>
+                        <li>checkDongleUpdate( CallBackCheckDongleUpdate callback, Map params) : void</li>
+                        <li>updateDongle(CallBackUpdateDongle callback, Map params) : void</li>
+                        <li>sendTransaction(String url, CallBackSendTransaction callback, Map params, IMessageHandler guiController) : void </li>
+                    </ul>
+                </div>
+                <!-- End Project Info Column -->
+            </div>
+
+        </div>
+    </div>
+</div>

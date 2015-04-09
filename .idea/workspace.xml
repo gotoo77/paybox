@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1195f3e-f7f3-41df-b944-ff7dbabcd61c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/ATM.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/ArchiMPOS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/DAB.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/DUPKT-Transaction_Flow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/DUPKT-infographic.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/EMV-Diagram.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/EMV-Map.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/EMV-Migration-Forum-EMV-Testing-and-Certification-White-Paper.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/EMV_v4.3_Book4_Other_Interfaces_20111130035820186.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/users/GDU.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Main_Background_Pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/P2PE-May-13-2014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/P2PE_V3-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/P2PE_V4-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/PAN_decryption.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/PaiementMobile - Description API 1.06.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/users/RDE.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/SSL.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/SSL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/TAPS-SAPS_MPOS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/users/TOTO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/VX520_1_lg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/VX520_2_lg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/VX520_3_lg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ico/VerifoneMPOS.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/accepteur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/acquereur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/af.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/am.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/an.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/as.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/at.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/au.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/aw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/bg_black.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/br.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/businessman120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bx_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/by.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/bz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/catalonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/credit31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/cz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/default.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/dj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/dk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/dm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/do.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/dz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/eg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/eh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/emetteur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/england.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/er.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/et.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/europeanunion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/gy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/hand103.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/hk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/hm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/hn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/hr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ht.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/hu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/io.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/ipnoverview.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/iq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ir.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/is.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/jm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/jo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/jp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/km.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/kz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/lv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magic_x_series_1_225x225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magicc_x-series_1_550x550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magicc_x-series_3_550x550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magicc_x-series_4_550x550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magicc_x-series_5_550x550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/magicc_x-series_6_550x550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/man337.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/monetique_global.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/my.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/mz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ni.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/np.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/nz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/om.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/page-background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/porteur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/pw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/py.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/qa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/re.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/responsive12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/rs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/rw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/scotland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/servers1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/shopping159.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/si.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider/slide_ArchiMPOS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider/slide_TAPS_SAPS_MPOS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider/slider-bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider/slider-bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/homepage-slider/slider-bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/so.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/st.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stay-connected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/sz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/td.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/metier/telecollecte.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/service-icon/terminal8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/th.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/tz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/um.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/uy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/uz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/vc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ve.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/vg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/vi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/vn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/vu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/vx520_225x225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/terminaux/vx520_4_lg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/wales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/wf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ws.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/ye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/za.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/zm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flags/zw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/AngularData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/Devel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/Dongle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/MPOS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/T_GautierD1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/VerifonePaybox_MPOS.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/book.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/chapter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/coming-soon-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/components.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/definitions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/includes/footer.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/general.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/includes/header.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/icomoon-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery.sequence-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery.sequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/leaflet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/leaflet.ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/lesshat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main-grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main-menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/modernizr-2.6.2-respond-1.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/old/navig.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/old/page-MPOS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/old/page-def.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/includes/slides.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/views/toto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/ui-bootstrap-tpls-0.12.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="VerifonePaybox_MPOS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VerifonePaybox_MPOS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AngularData.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/AngularData.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15808" max-vertical-offset="16830">
+              <caret line="821" column="57" selection-start-line="821" selection-start-column="57" selection-end-line="821" selection-end-column="57" />
+              <folding>
+                <element signature="e#32069#34217#0" expanded="false" />
+                <marker date="1428593541980" expanded="true" signature="6316:6955" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="9676:9875" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="10204:10838" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="11165:11463" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="11755:13434" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="12413:13392" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="12442:12605" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="12471:12558" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="12633:13365" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="12663:13336" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="13798:14277" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="14915:15568" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="16134:16292" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="16681:16873" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="17270:17726" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="17291:17702" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="18171:18665" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="19056:19293" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="19766:20452" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="20922:23853" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="20943:21389" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="21393:21815" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="21840:23022" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="23047:23829" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="24382:24511" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="24928:26803" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="26111:26779" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="27347:27693" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="28201:28468" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="28894:29900" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="30469:31830" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="30495:31644" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="32260:33927" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="32370:32650" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="32897:33903" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="34410:35038" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="35584:35742" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="37020:37134" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="37553:38286" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="38650:39146" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="39548:40005" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="40399:40856" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="41236:41601" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="42005:42507" placeholder="..." />
+                <marker date="1428593541980" expanded="true" signature="42160:42483" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43816254" vertical-offset="551" max-vertical-offset="1445">
+              <caret line="47" column="86" selection-start-line="47" selection-start-column="86" selection-end-line="47" selection-end-column="86" />
+              <folding>
+                <marker date="1428593321804" expanded="true" signature="1184:1445" placeholder="..." />
+                <marker date="1428593321804" expanded="true" signature="1277:1318" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/navig.html" />
+        <option value="$PROJECT_DIR$/js/header.js" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/footer.htm" />
+        <option value="$PROJECT_DIR$/navig.htm" />
+        <option value="$PROJECT_DIR$/js/lib/angular.min.js" />
+        <option value="$PROJECT_DIR$/page-MPOS.html" />
+        <option value="$PROJECT_DIR$/page-def.html" />
+        <option value="$PROJECT_DIR$/book.html" />
+        <option value="$PROJECT_DIR$/chapter.html" />
+        <option value="$PROJECT_DIR$/templates/page-def.html" />
+        <option value="$PROJECT_DIR$/toto.html" />
+        <option value="$PROJECT_DIR$/def.html" />
+        <option value="$PROJECT_DIR$/templates/main.html" />
+        <option value="$PROJECT_DIR$/old/page-def.html" />
+        <option value="$PROJECT_DIR$/old/navig.html" />
+        <option value="$PROJECT_DIR$/templates/MPOS.html" />
+        <option value="$PROJECT_DIR$/templates/definitions.html" />
+        <option value="$PROJECT_DIR$/header.htm" />
+        <option value="ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" />
+        <option value="$PROJECT_DIR$/templates/presentation.html" />
+        <option value="$PROJECT_DIR$/slides.htm" />
+        <option value="$PROJECT_DIR$/slides.html" />
+        <option value="$PROJECT_DIR$/includes/e.html" />
+        <option value="$PROJECT_DIR$/includes/slides.htm" />
+        <option value="$PROJECT_DIR$/html/includes/header.htm" />
+        <option value="$PROJECT_DIR$/html/views/Dongle.html" />
+        <option value="$PROJECT_DIR$/html/views/home.html" />
+        <option value="$PROJECT_DIR$/html/includes/footer.htm" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/html/views/MPOS.html" />
+        <option value="$PROJECT_DIR$/html/views/Devel.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/AngularData.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerifonePaybox_MPOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerifonePaybox_MPOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerifonePaybox_MPOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerifonePaybox_MPOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VerifonePaybox_MPOS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="recentsLimit" value="5" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Slide&#9;null&#9;null&#10;html&#9;FILE&#9;file://C:/Users/gduval/Desktop/perso/VerifonePaybox_MPOS/html/views/MPOS.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gduval\Desktop\perso\VerifonePaybox_MPOS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gduval\Desktop\perso\VerifonePaybox_MPOS\html" />
+      <recent name="C:\Users\gduval\Desktop\perso\VerifonePaybox_MPOS\includes" />
+      <recent name="C:\Users\gduval\Desktop\perso\VerifonePaybox_MPOS\templates" />
+      <recent name="C:\Users\gduval\Desktop\perso\VerifonePaybox_MPOS\old" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/definitions/mydef" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/home/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/home" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/index.html" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/index" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/Book" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/MPOS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/VerifonePaybox_MPOS/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63342" />
+          <option name="urlPath" value="/MPOS" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/VerifonePaybox_MPOS/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AngularData.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="AngularData.js" working-dir="$PROJECT_DIR$/js">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.AngularData.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1195f3e-f7f3-41df-b944-ff7dbabcd61c" name="Default" comment="" />
+      <created>1427791728289</created>
+      <option name="number" value="Default" />
+      <updated>1427791728289</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1891892" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771337" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36972973" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39978904" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="$scope.shareddata.imgs.Slides" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="4148">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="42" />
+          <folding>
+            <marker date="1428593321804" expanded="true" signature="1184:1445" placeholder="..." />
+            <marker date="1428593321804" expanded="true" signature="1277:1318" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-MPOS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1822" max-vertical-offset="2703">
+          <caret line="150" column="51" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-def.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1261" max-vertical-offset="3043">
+          <caret line="143" column="12" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="799">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/AngularData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3264">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#32069#34217#0" expanded="false" />
+            <marker date="1428593541980" expanded="true" signature="6316:6955" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="9676:9875" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="10204:10838" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11165:11463" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11755:13434" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12413:13392" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12442:12605" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12471:12558" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12633:13365" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12663:13336" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="13798:14277" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="14915:15568" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16134:16292" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16681:16873" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17270:17726" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17291:17702" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="18171:18665" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19056:19293" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19766:20452" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20922:23853" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20943:21389" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21393:21815" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21840:23022" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="23047:23829" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24382:24511" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24928:26803" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="26111:26779" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="27347:27693" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28201:28468" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28894:29900" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30469:31830" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30495:31644" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32260:33927" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32370:32650" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32897:33903" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="34410:35038" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="35584:35742" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37020:37134" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37553:38286" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="38650:39146" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="39548:40005" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="40399:40856" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="41236:41601" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42005:42507" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42160:42483" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/chapter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="4556">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+          <folding>
+            <marker date="1428593321804" expanded="true" signature="1184:1445" placeholder="..." />
+            <marker date="1428593321804" expanded="true" signature="1277:1318" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-MPOS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1822" max-vertical-offset="2703">
+          <caret line="136" column="7" selection-start-line="136" selection-start-column="7" selection-end-line="136" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-def.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1178" max-vertical-offset="3009">
+          <caret line="95" column="58" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="799">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/AngularData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="12614">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#32069#34217#0" expanded="false" />
+            <marker date="1428593541980" expanded="true" signature="6316:6955" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="9676:9875" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="10204:10838" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11165:11463" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11755:13434" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12413:13392" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12442:12605" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12471:12558" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12633:13365" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12663:13336" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="13798:14277" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="14915:15568" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16134:16292" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16681:16873" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17270:17726" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17291:17702" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="18171:18665" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19056:19293" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19766:20452" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20922:23853" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20943:21389" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21393:21815" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21840:23022" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="23047:23829" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24382:24511" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24928:26803" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="26111:26779" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="27347:27693" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28201:28468" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28894:29900" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30469:31830" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30495:31644" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32260:33927" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32370:32650" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32897:33903" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="34410:35038" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="35584:35742" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37020:37134" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37553:38286" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="38650:39146" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="39548:40005" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="40399:40856" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="41236:41601" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42005:42507" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42160:42483" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/flags.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bx_loader.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/header_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Main_Background_Pattern.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/page-background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/stay-connected.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/service-icon/businessman120.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.16413043" vertical-offset="151" max-vertical-offset="1122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2771739" vertical-offset="0" max-vertical-offset="920">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="33269">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4352">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/lesshat.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6939251" vertical-offset="3162" max-vertical-offset="37485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/components.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41871">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/navig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-def.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.254833" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/old/page-MPOS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5079086" vertical-offset="323" max-vertical-offset="2703">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="131" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/chapter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js">
+      <provider selected="true" editor-type-id="httpFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5711775" vertical-offset="1630" max-vertical-offset="15946">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321617" vertical-offset="831" max-vertical-offset="4301">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/slides.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="493">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/definitions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.864447" vertical-offset="0" max-vertical-offset="3894">
+          <caret line="73" column="77" selection-start-line="73" selection-start-column="75" selection-end-line="73" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.98097503" vertical-offset="0" max-vertical-offset="1551">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/toto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2771">
+          <caret line="0" column="26" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/includes/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.117717005" vertical-offset="0" max-vertical-offset="841">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/MPOS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7965517" vertical-offset="0" max-vertical-offset="3564">
+          <caret line="21" column="108" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/Dongle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.037931036" vertical-offset="0" max-vertical-offset="3498">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/views/Devel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53103447" vertical-offset="0" max-vertical-offset="1848">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="43.08587" vertical-offset="6023" max-vertical-offset="46172">
+          <caret line="2686" column="17" selection-start-line="2686" selection-start-column="17" selection-end-line="2686" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27330" max-vertical-offset="447338">
+          <caret line="1619" column="0" selection-start-line="1619" selection-start-column="0" selection-end-line="1619" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/AngularData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15808" max-vertical-offset="16830">
+          <caret line="821" column="57" selection-start-line="821" selection-start-column="57" selection-end-line="821" selection-end-column="57" />
+          <folding>
+            <element signature="e#32069#34217#0" expanded="false" />
+            <marker date="1428593541980" expanded="true" signature="6316:6955" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="9676:9875" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="10204:10838" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11165:11463" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="11755:13434" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12413:13392" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12442:12605" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12471:12558" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12633:13365" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="12663:13336" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="13798:14277" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="14915:15568" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16134:16292" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="16681:16873" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17270:17726" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="17291:17702" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="18171:18665" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19056:19293" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="19766:20452" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20922:23853" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="20943:21389" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21393:21815" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="21840:23022" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="23047:23829" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24382:24511" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="24928:26803" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="26111:26779" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="27347:27693" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28201:28468" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="28894:29900" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30469:31830" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="30495:31644" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32260:33927" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32370:32650" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="32897:33903" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="34410:35038" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="35584:35742" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37020:37134" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="37553:38286" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="38650:39146" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="39548:40005" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="40399:40856" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="41236:41601" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42005:42507" placeholder="..." />
+            <marker date="1428593541980" expanded="true" signature="42160:42483" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43816254" vertical-offset="551" max-vertical-offset="1445">
+          <caret line="47" column="86" selection-start-line="47" selection-start-column="86" selection-end-line="47" selection-end-column="86" />
+          <folding>
+            <marker date="1428593321804" expanded="true" signature="1184:1445" placeholder="..." />
+            <marker date="1428593321804" expanded="true" signature="1277:1318" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
